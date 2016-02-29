@@ -21,6 +21,6 @@
   },
   "licenses": "MIT",
   "dependencies": {
-    "webpack-dev-middleware": "1.4.x"
+    "webpack-dev-middleware": "github:jchapple/webpack-dev-middleware#webpack2-compat"
   }
 }
